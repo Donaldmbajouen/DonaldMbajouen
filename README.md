@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Donald Mbajouen  
 
-🎓 Étudiant en informatique à l’IAI Cameroun (actuellement en Bac+3) | 💻 Développeur Fullstack & passionné d’Intelligence Artificielle
+🎓 Ingenieur de Travaux Informatiue option Genie logiciel a L'IAI Cameroun | 💻 Développeur Fullstack & passionné d’Intelligence Artificielle
 🌍 Engagé dans la création de solutions technologiques innovantes pour répondre à des défis concrets et générer un impact positif en Afrique.
 ---
 
