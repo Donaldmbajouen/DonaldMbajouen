@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Donald Mbajouen  
+# 👋 Salut, moi c’est Donald Njemi Mbajouen  
 
 🎓 Ingenieur de Travaux Informatiue option Genie logiciel a L'IAI Cameroun | 💻 Développeur Fullstack & passionné d’Intelligence Artificielle
 🌍 Engagé dans la création de solutions technologiques innovantes pour répondre à des défis concrets et générer un impact positif en Afrique.
