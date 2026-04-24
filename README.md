@@ -32,7 +32,7 @@
 
 ## 📫 Me contacter
 
-- 🌐 [Portfolio à venir]  
+- 🌐 https://donald-njemi-portofolio.vercel.app
 - 📧 mbajouend@gmail.com.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/donald-njemi-mbajouen-741889284/)
 
